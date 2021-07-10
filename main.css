@@ -7,3 +7,14 @@ blockquote, p {
   text-align: center;
 }
 
+blockquote {
+  text-transform: uppercase;
+  font-family: 'Spartan', sans-serif;
+  font-size: 30px;
+  line-height: 2;
+}
+
+p {
+  font-style: italic;
+  font-weight: bold;
+}
